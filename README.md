@@ -11,7 +11,7 @@ A popup appears two seconds after the page loads, then we can invoke our normal 
 Clone the project
 
 ```bash
-  https://github.com/CihatKOCAK/react-popup.git
+  git clone https://github.com/CihatKOCAK/react-popup.git
 ```
 
 Go to the project directory
